@@ -5,7 +5,7 @@ a Simple Clone of Evernote Application using <br>
 -MVVM  architectural pattern <br>
 -for Users Signup / SignIn  Authentication i used googlefirebase  Email/Password service <br>
 -for Database/CRUD Operations used Realtime Database from googlefirebase<br>
-
+-store the Notes in the Cloud using Azure Storage Account Service(blob storage)<br>
 
 ![alt text](https://raw.githubusercontent.com/Ahmref/Notes-App-MVVM/main/Capture.PNG)
 
