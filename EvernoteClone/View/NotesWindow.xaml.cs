@@ -182,7 +182,7 @@ namespace EvernoteClone.View
 
         private async Task<string> UpdateFile(string rtfFilePath, string fileName)
         {
-            string connectionString = "DefaultEndpointsProtocol=https;AccountName=notesappwpf;AccountKey=oHMfIWW9xNbNGXLbvFhxmNAtrNc3xZYgwTvV7WFWuUxe6VHMulldYC7L+8zNJT2Uznu28aOblS4g+AStq80HkQ==;EndpointSuffix=core.windows.net";
+            string connectionString = "put your own Azure blob storage connectionString";
             string containerName = "notes";
             var container = new BlobContainerClient(connectionString, containerName);
             //container.CreateIfNotExistsAsync();
