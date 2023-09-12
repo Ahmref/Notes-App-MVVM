@@ -9,7 +9,7 @@ namespace EvernoteClone.ViewModel.Helpers
 {
     public class FirebaseAuthHelper
     {
-        private static string api_key = "AIzaSyDGx8TDV723dmXwjrkQNDog1Hc6KmlttrM";
+        private static string api_key = "your own fire base api_key";
 
         public static async Task<bool> Register(User user)
         {
