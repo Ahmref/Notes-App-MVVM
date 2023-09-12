@@ -9,3 +9,4 @@ a Simple Clone of Evernote Application using <br>
 
 ![alt text](https://raw.githubusercontent.com/Ahmref/Notes-App-MVVM/main/Capture.PNG)
 
+![alt text](https://raw.githubusercontent.com/Ahmref/Notes-App-MVVM/main/Capture2.PNG)
